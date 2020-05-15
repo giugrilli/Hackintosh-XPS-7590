@@ -959,6 +959,14 @@
 				<key>Path</key>
 				<string>SSDT-PTSWAK.aml</string>
 			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT CPU FRIEND DATA</string>
+				<key>Path</key>
+				<string>SSDT-CPU-FRIEND-DATA.aml</string>
+			</dict>
 		</array>
 	</dict>
 	<key>PlatformInfo</key>
