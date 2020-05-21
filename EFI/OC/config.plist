@@ -923,14 +923,6 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>Adding PNLF device for backlight</string>
-				<key>Path</key>
-				<string>SSDT-PNLF.aml</string>
-			</dict>
-			<dict>
-				<key>Enabled</key>
-				<true/>
-				<key>Comment</key>
 				<string>SSDT PPMC</string>
 				<key>Path</key>
 				<string>SSDT-PPMC.aml</string>
@@ -994,7 +986,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02DNBYSMD6N</string>
 			<key>AdviseWindows</key>
-			<false/>
+			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro16,1</string>
 			<key>SystemUUID</key>
