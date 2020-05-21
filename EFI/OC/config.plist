@@ -875,7 +875,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>fix unsupported 8-series LPC devices</string>
+				<string>Fix unsupported 8-series LPC devices</string>
 				<key>Path</key>
 				<string>SSDT-LPC.aml</string>
 			</dict>
@@ -883,7 +883,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>adds the (potentially) missing Memory (DRAM) Controller to the system</string>
+				<string>Adds the (potentially) missing Memory (DRAM) Controller to the system</string>
 				<key>Path</key>
 				<string>SSDT-MCHC.aml</string>
 			</dict>
@@ -891,7 +891,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>inject USB extra power properties</string>
+				<string>Inject USB extra power properties</string>
 				<key>Path</key>
 				<string>SSDT-XHC.aml</string>
 			</dict>
@@ -899,7 +899,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>adds the (potentially) missing SMBUS</string>
+				<string>Adds the (potentially) missing SMBUS</string>
 				<key>Path</key>
 				<string>SSDT-SMBUS.aml</string>
 			</dict>
@@ -931,7 +931,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT RMCF</string>
+				<string>Various ssdt configurations</string>
 				<key>Path</key>
 				<string>SSDT-RMCF.aml</string>
 			</dict>
@@ -955,7 +955,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>customizations for USB</string>
+				<string>Customizations for USB</string>
 				<key>Path</key>
 				<string>SSDT-UIAC.aml</string>
 			</dict>
